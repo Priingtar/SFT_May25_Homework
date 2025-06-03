@@ -34,9 +34,9 @@ public class Digit_count_03_06 {
              {
                  odd_count ++;
              }
-             count++;
+             
              num = num /10;
-
+             count++;
 
          }
          System.out.println("Digits counts = "+count);
